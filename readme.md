@@ -23,5 +23,5 @@ MIT
 
 ## reference
 
-https://github.com/feross/Fullscreen-API-Attack
-https://portal.vietcombank.com.vn/Pages/Home.aspx?devicechannel=default
+1. https://github.com/feross/Fullscreen-API-Attack
+2. https://portal.vietcombank.com.vn/Pages/Home.aspx?devicechannel=default
